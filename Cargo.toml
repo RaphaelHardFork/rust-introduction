@@ -1,0 +1,10 @@
+[package]
+name = "rust-introduction"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# Check the doc with `cargo doc --open` => index.html
+rand = "0.8.3"
